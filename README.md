@@ -16,6 +16,7 @@
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
   <a href="https://s2.glbimg.com/oYGSzbAZwUf_o36mngmQ4m7FPHs=/0x0:695x391/984x0/smart/filters:strip_icc()/s.glbimg.com/po/tt2/f/original/2016/03/02/microsoft-office-online-365-diferencas-pago-gratuito-1.jpg" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"></a>
+    <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
