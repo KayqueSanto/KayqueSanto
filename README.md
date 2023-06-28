@@ -14,6 +14,8 @@
   <a href="https://s2.glbimg.com/oYGSzbAZwUf_o36mngmQ4m7FPHs=/0x0:695x391/984x0/smart/filters:strip_icc()/s.glbimg.com/po/tt2/f/original/2016/03/02/microsoft-office-online-365-diferencas-pago-gratuito-1.jpg" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"></a>
     <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
+ <a href="https://www.javascript.com/" target=_blank><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+ <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
  
 </P>
  
@@ -40,13 +42,13 @@
 
 <p align = "center">
   <a href="https://github.com/KayqueSanto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayqueSanto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueSanto&theme=dracula&hide_border=false&&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayqueSanto&theme=dracula&hide_border=false&show_icons=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueSanto&layout=compact&theme=dracula&hide_border=false&show_icons=false"/>
   </a>
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueSanto&&show_icons=true&locale=en&layout=compact&theme=vue-dracula&hine_height=0_border=false&show_ower=true" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueSanto&&layout=compact&theme=dracula&hide_border=false&show_icons=false" />
 </p> 
 
 
