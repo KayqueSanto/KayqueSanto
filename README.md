@@ -42,8 +42,8 @@
 
 <p align = "center">
   <a href="https://github.com/KayqueSanto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayqueSanto&theme=dracula&hide_border=false&show_icons=false"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueSanto&layout=compact&theme=dracula&hide_border=false&show_icons=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayqueSanto&theme=dracula&hide_border=false&show_icons=false&true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueSanto&layout=compact&theme=dracula&hide_border=false&show_icons=false&true"/>
   </a>
 </p>
 
